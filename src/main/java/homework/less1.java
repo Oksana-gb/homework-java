@@ -1,11 +1,11 @@
-package homework.les1;
+package homework;
 
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Random;
 
 
-public class les1 {
+public class less1 {
     public static void main(String[] args) {
         //System.out.println(ex1());
         //ex2(5);
